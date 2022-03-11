@@ -1,1 +1,10 @@
+LOW LEVEL REQUIREMENTS:
+
+     It lock when blue switch is on and all led ON.
+     
+     It unlock when switch is pressed two times and all led OFF.
+     
+     The alarm activation/deactivation when switch pressed three times and all led  ON in clockwise.
+     
+     It approach light when switch pressed four times and all led ON in anti-clockwise .
 
